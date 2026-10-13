@@ -1,6 +1,6 @@
 # Hi, I'm Mark Esparza
 
-Medical student at Oklahoma State University College of Osteopathic Medicine and licensed real estate agent in Tulsa, Oklahoma. I build software for neurology, structural biology, chemistry, and finance.
+Medical student at Oklahoma State University College of Osteopathic Medicine and licensed real estate agent in Tulsa, Oklahoma. I build software for eye movement recording, structural biology, chemistry, and finance.
 
 **Website:** [mark-esparza.github.io](https://mark-esparza.github.io)
 **ORCID:** [0009-0000-5171-102X](https://orcid.org/0009-0000-5171-102X)
@@ -24,4 +24,4 @@ Medical student at Oklahoma State University College of Osteopathic Medicine and
 
 ## Interests
 
-Neurology, ophthalmology, eye movement recording, structural biology, real estate, and building tools that make complex information easier to use.
+Eye movement disorders, protein and ligand binding, cheminformatics, and educational software for medicine and pharmacology.
